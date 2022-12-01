@@ -8,7 +8,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        int age; 
+        int age;
         string day = null;
 
         Console.WriteLine("Are you eligible for student pricing?");
